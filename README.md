@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dan-lara/binder-test/main?labpath=hello.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dan-lara/binder-test/main?labpath=note_test.ipynb)
